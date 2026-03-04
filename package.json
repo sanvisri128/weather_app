@@ -1,0 +1,12 @@
+{
+  "name": "weather-cli",
+  "version": "1.0.0",
+  "description": "Simple Node.js CLI weather app using Open-Meteo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["weather", "cli", "open-meteo"],
+  "author": "",
+  "license": "MIT"
+}
