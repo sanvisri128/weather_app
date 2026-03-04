@@ -12,3 +12,8 @@ Files
 
 - `index.js` — CLI entrypoint
 - `api.js` — Geocoding and weather API calls (uses built-in `https`)
+## Usage
+
+Run the application:
+
+node index.js "City Name"
